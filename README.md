@@ -1,2 +1,2 @@
 # JavaScript_ProblemSolving
-Solving Problems with JavaScript from Hackerrank,Leetcode and more
+Problem Solving with JavaScript from Hackerrank,Leetcode and more
